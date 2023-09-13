@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\.1fc930711c5387976637aa5d623fb655c773fd5d-audit.json",
+    "files": [
+        {
+            "date": 1694272214657,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-09-09-21-success.log",
+            "hash": "94e7a52e95feea66530bfa38842c1ec7ade4b1b1cf0e4f67dfd7b7dee0f99de0"
+        },
+        {
+            "date": 1694275205519,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-09-09-22-success.log",
+            "hash": "a1c8136364a96bd87d894d90acc617bfb9009ab23c0bee371d67dad589326036"
+        },
+        {
+            "date": 1694306985299,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-10-09-06-success.log",
+            "hash": "58950b809b3fa72996f2aab318fe092668595fa7f0d5aefa9a7c4cc16d6ead59"
+        },
+        {
+            "date": 1694307888965,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-10-09-07-success.log",
+            "hash": "9d479d248a28380a8065ba928308b94280467012f933ef121012fd17a4687b37"
+        },
+        {
+            "date": 1694356773943,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-10-09-20-success.log",
+            "hash": "51a17a22a38a312a2b5f5db9dc0f3749e056ad5b0017a3f7f28f1d5ce8ec2ab8"
+        },
+        {
+            "date": 1694358007240,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-10-09-21-success.log",
+            "hash": "556a6af028e09750c6f2b8dee14353bfd3850dbc16f8b7abf587d66b73361eb6"
+        },
+        {
+            "date": 1694443667617,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-11-09-20-success.log",
+            "hash": "cd6f8c82486c46153e112ef8981b33f7074f6debc242b50788de6c82229f39c8"
+        },
+        {
+            "date": 1694444579933,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-11-09-21-success.log",
+            "hash": "3ee96102ee9129abde20bba8261fe4c7cc550d9637efe114d6b477354fadb19a"
+        },
+        {
+            "date": 1694449420474,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-11-09-22-success.log",
+            "hash": "636a1ab97f10cbaa9db3996b77d310fe2c88e0825ff19a638cfd4c4e5c60bb61"
+        },
+        {
+            "date": 1694479186306,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-12-09-06-success.log",
+            "hash": "5c54ed77e19e8d19f25a5bfd613db8ce43f92c49f600f570dbb3f041296f8e28"
+        },
+        {
+            "date": 1694480444004,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-12-09-07-success.log",
+            "hash": "ebe3ffd9be52e65f55fe9c867637485d8c7f60bf66173ca8c5becc07ad03d39f"
+        },
+        {
+            "date": 1694530739218,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-12-09-20-success.log",
+            "hash": "d875a3ff4855b0c2ba45b730245da95ff7808b69007d66fd63ec0fa22fbf4395"
+        },
+        {
+            "date": 1694532833416,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-12-09-21-success.log",
+            "hash": "341e655e30df4494580cbceee36130b6fc10f4d9cb14ca7869548b0882bb53db"
+        },
+        {
+            "date": 1694534408056,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-12-09-22-success.log",
+            "hash": "ff97734ebd1678565b24da318ba9ed95210fffef5d9ba58c497866b678b081d9"
+        },
+        {
+            "date": 1694565748063,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-13-09-06-success.log",
+            "hash": "481c6b6f0accabfc51795c03e3232d58b1d240a97e89aed2d0b6c9e909d60472"
+        },
+        {
+            "date": 1694567379898,
+            "name": "D:\\Practice\\next-level\\assignments\\assignment8\\logs\\winston\\successes\\phu-2023-13-09-07-success.log",
+            "hash": "deda3402e7654ab48708f01a3aaa0767676ee96a2128ffaf4f7e550d05d3b081"
+        }
+    ],
+    "hashType": "sha256"
+}
